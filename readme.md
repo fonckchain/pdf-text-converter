@@ -1,6 +1,8 @@
-# PDF to Text Conversion
-
-This project contains a Python script that converts PDF files to text files.
+<p align="center">
+  <img width="180" src="./public/python-logo.png" alt="Python">
+  <h1 align="center">PDF to Text Conversion</h1>
+  <p align="center">This project contains a Python script that converts PDF files to text files</p>
+</p>
 
 ## Description
 
