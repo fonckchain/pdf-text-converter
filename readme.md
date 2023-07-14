@@ -29,4 +29,4 @@ The script scans specified directories for PDF files. For each PDF file, it extr
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License
